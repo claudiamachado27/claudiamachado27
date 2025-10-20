@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi, I'm Claudia Machado! 👋</h1>
     <p>🚀 UX/UI Designer and WordPress Specialist | AI Enthusiast</p>
-    <p>Dedicação, paixão e aprendizado são o que me mantém em movimento</p>
+    
 </div>
 
 <br>
@@ -13,6 +13,7 @@
 ## 🔭 Sobre Mim
 
 UX/UI designer movida pela curiosidade, tenho vindo a transformar ideias em uma experiência funcional e agradável. Com 10 anos de experiência em design de websites responsivos em WordPress, meu foco atual é aprender a construir aplicações web/mobile escaláveis e de alta performance.
+<p>Dedicação, paixão e aprendizado são o que me mantém em movimento</p>
 
 * 📍 **Localização:** Aveiro - Portugal
 * 💼 **Atualmente trabalhando como:** Freelancer
@@ -39,24 +40,18 @@ Aqui estão as principais ferramentas e tecnologias que utilizo:
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
     </p>
-
-    <h3>Frameworks e Bibliotecas</h3>
+    <h3>Ferramentas</h3>
     <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-    </p>
-
-    <h3>Banco de Dados e Ferramentas</h3>
-    <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop"/>            
+        <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator"/>
+        <img src="https://img.shields.io/badge/Maze-0568FD?style=for-the-badge&logo=maze&logoColor=white" alt="Maze"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-007EFF?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+        
+        
     </p>
 </div>
 
@@ -68,19 +63,17 @@ Aqui estão as principais ferramentas e tecnologias que utilizo:
 
 ## 🔥 Atividade no GitHub (Stats Dinâmicos)
 
-Estas são as minhas estatísticas dinâmicas no GitHub. **Lembre-se de mudar `SEU_USERNAME` nos links abaixo!**
+Estas são as minhas estatísticas dinâmicas no GitHub.
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=nord&hide_border=false&count_private=true" alt="Estatísticas do GitHub" />
-    </a>
-    
+        <img src="https://github-readme-stats.vercel.app/api?username=claudiamachado27&show_icons=true&theme=nord&hide_border=false&count_private=true" alt="Estatísticas do GitHub" />
+    </a>   
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=nord&hide_border=false" alt="Principais Linguagens" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiamachado27&layout=compact&theme=nord&hide_border=false" alt="Principais Linguagens" />
     </a>
-
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.maxamdeo.dev/?user=SEU_USERNAME&theme=nord&hide_border=false" alt="Estatísticas de Streak" />
+        <img src="https://github-readme-streak-stats.maxamdeo.dev/?user=claudiamachado27&theme=nord&hide_border=false" alt="Estatísticas de Streak" />
     </a>
 </div>
 
@@ -103,19 +96,5 @@ Estou sempre aberta a novas conexões e oportunidades. Sinta-se à vontade para 
             <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio"/>
         </a>
     </p>
-        
-        <a href="mailto:[SEU E-MAIL]" target="_blank">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-
-        <a href="[LINK DO SEU TWITTER/X]" target="_blank">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-        </a>
-
-        <a href="[LINK DO SEU PORTFÓLIO/BLOG]" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio"/>
-        </a>
-    </p>
-
     <img src="https://profile-counter.glitch.me/[SEU_USERNAME]/count.svg" alt="Contador de visitantes do perfil">
 </div>
