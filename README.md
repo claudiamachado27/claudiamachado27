@@ -16,15 +16,11 @@
 As a UX/UI designer motivated by curiosity, I have 10 years of experience turning ideas into delightful, functional products, primarily through responsive WordPress design. I'm currently redirecting this expertise to learn how to build scalable, high-performance web/mobile applications.
 Dedication, passion, and learning are what keep me moving.
 
-📍 Location: Aveiro - Portugal
-
-💼 Currently working as: Freelancer
-
-🌱 Currently learning/focused on: Front End development
-
-💡 I like to talk about: Music, movies, and travel
-
-🤝 Looking to collaborate on: Design and Front-End development projects, especially those involving React, to apply and expand my new skills.
+* 📍 Location: Aveiro - Portugal
+* 💼 Currently working as: Freelancer
+* 🌱 Currently learning/focused on: Front End development
+* 💡 I like to talk about: Music, movies, and travel
+* 🤝 Looking to collaborate on: Design and Front-End development projects, especially those involving React, to apply and expand my new skills.
 <br>
 
 ## 🛠️ My Technology Stack
