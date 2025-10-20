@@ -50,8 +50,6 @@ Aqui estão as principais ferramentas e tecnologias que utilizo:
         <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-007EFF?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-        
-        
     </p>
 </div>
 
@@ -96,5 +94,5 @@ Estou sempre aberta a novas conexões e oportunidades. Sinta-se à vontade para 
             <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio"/>
         </a>
     </p>
-    <img src="https://profile-counter.glitch.me/[SEU_USERNAME]/count.svg" alt="Contador de visitantes do perfil">
+    <img src="https://profile-counter.glitch.me/claudiamachado27/count.svg" alt="Contador de visitantes do perfil">
 </div>
