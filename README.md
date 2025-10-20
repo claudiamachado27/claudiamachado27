@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="[LINK DA SUA IMAGEM]" alt=" Imagem de Perfil" width="150" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
     <p>🚀 UX/UI Designer and WordPress Specialist | AI Enthusiast</p>
     
