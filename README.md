@@ -70,9 +70,6 @@ Estas são as minhas estatísticas dinâmicas no GitHub.
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiamachado27&layout=compact&theme=nord&hide_border=false" alt="Principais Linguagens" />
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.maxamdeo.dev/?user=claudiamachado27&theme=nord&hide_border=false" alt="Estatísticas de Streak" />
-    </a>
 </div>
 
 <br>
@@ -94,5 +91,5 @@ Estou sempre aberta a novas conexões e oportunidades. Sinta-se à vontade para 
             <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio"/>
         </a>
     </p>
-    <img src="https://profile-counter.glitch.me/claudiamachado27/count.svg" alt="Contador de visitantes do perfil">
+    <img src="https://komarev.com/ghpvc/?username=claudiamachado27&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Contador de visitantes do perfil"/>
 </div>
