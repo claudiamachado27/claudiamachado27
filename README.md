@@ -1,6 +1,7 @@
 <div align="center">
     <h1>Hi, I'm Claudia Machado! 👋</h1>
-    <p>🚀 UX/UI Designer and Front-End Developer | AI Enthusiast</p>
+    <p>🚀 UX/UI Designer and WordPress Specialist | AI Enthusiast</p>
+    <p>Dedicação, paixão e aprendizado são o que me mantém em movimento</p>
 </div>
 
 <br>
@@ -11,13 +12,13 @@
 
 ## 🔭 Sobre Mim
 
-UX/UI designer movida pela curiosidade, desenvolvo soluções digitais e transformo ideias em uma experiência funcional e agradável. Com 10 anos de experiência em design de desenvolvimento de software, meu foco atual é construir aplicações web [OU MOBILE, OU DE DADOS] escaláveis e de alta performance.
+UX/UI designer movida pela curiosidade, tenho vindo a transformar ideias em uma experiência funcional e agradável. Com 10 anos de experiência em design de websites responsivos em WordPress, meu foco atual é aprender a construir aplicações web/mobile escaláveis e de alta performance.
 
 * 📍 **Localização:** Aveiro - Portugal
 * 💼 **Atualmente trabalhando como:** Freelancer
 * 🌱 **Atualmente estudando/focado(a) em:** Front End development
-* 💡 **Gosto de falar sobre:** [SEUS HOBBIES OU OUTROS TÓPICOS] (Ex: Leitura, jogos, café)
-* 🤝 **Procuro colaborar em:** Projetos Open Source em Bootstrap e hackathons.
+* 💡 **Gosto de falar sobre:** Música, filmes e viagens
+* 🤝 **Procuro colaborar em:** Projetos de design e desenvolvimento Front-End, especialmente aqueles que envolvam React, para aplicar e expandir minhas novas habilidades.
 
 <br>
 
@@ -32,6 +33,14 @@ Aqui estão as principais ferramentas e tecnologias que utilizo:
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </p>
+    <h3>Frameworks e Bibliotecas</h3>
+    <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
     </p>
 
     <h3>Frameworks e Bibliotecas</h3>
@@ -83,13 +92,17 @@ Estas são as minhas estatísticas dinâmicas no GitHub. **Lembre-se de mudar `S
 
 ## 🔗 Entre em Contato
 
-Estou sempre aberto(a) a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
+Estou sempre aberta a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
 
 <div align="center">
     <p>
         <a href="https://www.linkedin.com/in/claudiamachado27/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
+        <a href="https://claudiamachado.me" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio"/>
+        </a>
+    </p>
         
         <a href="mailto:[SEU E-MAIL]" target="_blank">
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
