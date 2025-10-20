@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="Claudia-Machado-a-trabalhar-no-computador-e1708534441383.webp" alt="Sua Imagem de Perfil/GIF de Saudação" width="150" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
     <p>🚀 UX/UI Designer and WordPress Specialist | AI Enthusiast</p>
     
