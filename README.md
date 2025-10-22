@@ -67,10 +67,10 @@ These are my dynamic GitHub statistics.
         <img src="https://github-readme-stats.vercel.app/api?username=claudiamachado27&show_icons=true&theme=prussian&hide_border=false&count_private=true" alt="Estatísticas do GitHub" />
     </a>   
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=nord&hide_border=false" alt="Principais Linguagens" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiamachado27&layout=compact&theme=nord&hide_border=false" alt="Principais Linguagens" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.maxamdeo.dev/?user=SEU_USERNAME&theme=nord&hide_border=false" alt="Estatísticas de Streak" />
+        <img src="https://github-readme-streak-stats.maxamdeo.dev/?user=claudiamachado27&theme=nord&hide_border=false" alt="Estatísticas de Streak" />
     </a>
 </div>
 
