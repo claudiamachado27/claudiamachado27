@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Claudia-Machado-a-trabalhar-no-computador-e1708534441383.webp" alt="Imagem de Perfil a trabalhar no computador" width="350" />
+    <img src="tenor.gif" alt="Imagem de Perfil a trabalhar no computador" width="350" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
     <p>🚀 UX/UI Designer and WordPress Specialist | AI Enthusiast</p>
     
