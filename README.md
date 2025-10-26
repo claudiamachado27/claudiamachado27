@@ -1,3 +1,6 @@
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=claudiamachado27&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Contador de visitantes do perfil"/>
+</div>
 <div align="center">
     <img src="tenor.gif" alt="Imagem de Perfil a trabalhar no computador" width="350" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
@@ -91,5 +94,5 @@ I am always open to new connections and opportunities. Feel free to contact me:
             <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio"/>
         </a>
     </p>
-    <img src="https://komarev.com/ghpvc/?username=claudiamachado27&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Contador de visitantes do perfil"/>
+    
 </div>
