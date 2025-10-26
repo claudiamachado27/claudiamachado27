@@ -16,7 +16,7 @@
 
 ## 🔭 About Me
 
-As a UX/UI designer motivated by curiosity, I have 10 years of experience turning ideas into delightful, functional products, primarily through responsive WordPress design. I'm currently redirecting this expertise to learn how to build scalable, high-performance web/mobile applications.
+As a UX/UI designer motivated by curiosity, I have 10 years of experience turning ideas into delightful, functional products, primarily through responsive design. I'm currently redirecting this expertise to learn how to build scalable, high-performance web/mobile applications.>br>
 Dedication, passion, and learning are what keep me moving.
 
 * 📍 Location: Aveiro - Portugal
