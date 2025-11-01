@@ -67,11 +67,8 @@ These are my dynamic GitHub statistics.
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=claudiamachado27&show_icons=true&theme=prussian&hide_border=false&count_private=true" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=claudiamachado27&show_icons=true&theme=graywhite&hide_border=false&count_private=true" alt="Estatísticas do GitHub" />
     </a>   
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
-    </a>
 </div>
 
 
