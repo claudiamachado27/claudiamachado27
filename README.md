@@ -61,9 +61,7 @@ Here are the main tools and technologies I use:
 
 <br>
 
-## 🔥 GitHub Activity (Dynamic Stats)
-
-These are my dynamic GitHub statistics.
+## 🔥 GitHub Activity
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
