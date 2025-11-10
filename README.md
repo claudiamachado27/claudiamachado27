@@ -4,7 +4,7 @@
 <div align="center">
     <img src="tenor.gif" alt="Imagem de Perfil a trabalhar no computador" width="350" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
-    <p>🚀 UX/UI Designer and WordPress Specialist | AI Enthusiast</p>
+    <p>🚀 UI/UX Designer | Junior Front-End Developer | WordPress Specialist </p>
     
 </div>
 
@@ -16,12 +16,12 @@
 
 ## 🔭 About Me
 
-As a UX/UI designer motivated by curiosity, I have 10 years of experience turning ideas into delightful, functional products, primarily through responsive design. I'm currently redirecting this expertise to learn how to build scalable, high-performance web/mobile applications.<br>
+UX/UI Designer and Junior Front-End Developer passionate about transforming ideas into intuitive and accessible digital products. My journey covers the complete development cycle, from Research and Experience Planning (UX) to Front-End Implementation, with solid experience in projects built using WordPress.<br>
 Dedication, passion, and learning are what keep me moving.
 
 * 📍 Location: Aveiro - Portugal
 * 💼 Currently working as: Freelancer
-* 🌱 Currently learning/focused on: Front End development
+* 🌱 Currently learning/focused on: Front-End development
 * 💡 I like to talk about: Music, movies, and travel
 * 🤝 Looking to collaborate on: Design and Front-End development projects, especially those involving React, to apply and expand my new skills.
 <br>
