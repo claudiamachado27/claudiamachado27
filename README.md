@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=claudiamachado27&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Contador de visitantes do perfil"/>
 </div>
 <div align="center">
-    <img src="tenor.gif" alt="Imagem de Perfil a trabalhar no computador" width="350" />
+    <img src="1762772965780.jpg" alt="Imagem de Perfil a trabalhar no computador" width="350" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
     <p>🚀 UI/UX Designer | Junior Front-End Developer | WordPress Specialist </p>
     
