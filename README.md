@@ -4,7 +4,7 @@
 <div align="center">
     <img src="1762772965780.jpg" alt="Imagem de Perfil a trabalhar no computador" width="800" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
-    <p>🚀 UI/UX Designer | Junior Front-End Developer | WordPress Specialist </p>
+    <p>🚀 UI/UX Designer | Front-End Developer | WordPress Specialist </p>
     
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🔭 About Me
 
-UX/UI Designer and Junior Front-End Developer passionate about transforming ideas into intuitive and accessible digital products. My journey covers the complete development cycle, from Research and Experience Planning (UX) to Front-End Implementation, with solid experience in projects built using WordPress.<br>
+UX/UI Designer and Front-End Developer passionate about transforming ideas into intuitive and accessible digital products. My journey covers the complete development cycle, from Research and Experience Planning (UX) to Front-End Implementation, with solid experience in projects built using WordPress.<br>
 Dedication, passion, and learning are what keep me moving.
 
 * 📍 Location: Aveiro - Portugal
@@ -54,21 +54,6 @@ Here are the main tools and technologies I use:
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-007EFF?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
     </p>
 </div>
-
-<br>
-
----
-
-<br>
-
-## 🔥 GitHub Activity
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=claudiamachado27&show_icons=true&theme=graywhite&hide_border=false&count_private=true" alt="Estatísticas do GitHub" />
-    </a>   
-</div>
-
 
 <br>
 
