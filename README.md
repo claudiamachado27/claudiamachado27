@@ -5,6 +5,9 @@
     <img src="1762772965780.jpg" alt="Imagem de Perfil a trabalhar no computador" width="800" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
     <p>🚀 UI/UX Designer | Front-End Developer | WordPress Specialist </p>
+     <a href="https://portfolio.claudiamachado.me" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio"/>
+        </a>
     
 </div>
 
