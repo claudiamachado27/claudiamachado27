@@ -1,20 +1,29 @@
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=claudiamachado27&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Contador de visitantes do perfil"/>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=claudiamachado27&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Contador de visitantes" align="left"/>
+
+  <p align="right">
+    <a href="https://portfolio.claudiamachado.me" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio"/>
+    </a>
+  </p>
 </div>
+    
 <div align="center">
     <img src="1762772965780.jpg" alt="Imagem de Perfil a trabalhar no computador" width="800" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
-    <p>🚀 UI/UX Designer | Front-End Developer | WordPress Specialist </p>
-     <a href="https://portfolio.claudiamachado.me" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfólio"/>
-        </a>
+     <p align="center">
+  <a href="https://app.daily.dev/claudiamachado27">
+    <img src="https://api.daily.dev/devcards/v2/Sy73SAVMQJIJ11DvysAeR.png?type=default&r=jvp" width="356" alt="Claudia Machado's Dev Card"/>
+  </a>
+</p>
     
 </div>
+
 
 <br>
 
 ---
-
+<div align="left">
 <br>
 
 ## 🔭 About Me
@@ -79,4 +88,5 @@ I am always open to new connections and opportunities. Feel free to contact me:
         </a>
     </p>
     
+</div>
 </div>
