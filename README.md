@@ -11,6 +11,7 @@
 <div align="center">
     <img src="1762772965780.jpg" alt="Imagem de Perfil a trabalhar no computador" width="800" />
     <h1>Hi, I'm Claudia Machado! 👋</h1>
+   <p>Dedication, passion, and learning are what keep me moving. </p>
      <p align="center">
   <a href="https://app.daily.dev/claudiamachado27">
     <img src="https://api.daily.dev/devcards/v2/Sy73SAVMQJIJ11DvysAeR.png?type=default&r=jvp" width="356" alt="Claudia Machado's Dev Card"/>
@@ -29,7 +30,7 @@
 ## 🔭 About Me
 
 UX/UI Designer and Front-End Developer passionate about transforming ideas into intuitive and accessible digital products. My journey covers the complete development cycle, from Research and Experience Planning (UX) to Front-End Implementation, with solid experience in projects built using WordPress.<br>
-Dedication, passion, and learning are what keep me moving.
+
 
 * 📍 Location: Aveiro - Portugal
 * 💼 Currently working as: Freelancer
