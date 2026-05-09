@@ -29,12 +29,14 @@
 
 ## 🔭 About Me
 
-UX/UI Designer and Front-End Developer passionate about transforming ideas into intuitive and accessible digital products. My journey covers the complete development cycle, from Research and Experience Planning (UX) to Front-End Implementation, with solid experience in projects built using WordPress.<br>
+My approach combines technical rigor with design sensibility—spanning everything from information architecture to production deployment, including RESTful API integration, CI/CD management, and performance optimization. Working with React 19, Next.js, Node.js, Laravel, and PostgreSQL allows me to collaborate across the full stack and deliver seamless, end-to-end solutions.
+
+My mission is to design solutions that don’t just meet today’s demands, but are future-proofed to sustain product growth and the evolution of the user experience. I am driven by complex challenges that require technical precision and the rigorous application of SEO, accessibility, and performance best practices to deliver tangible business value.<br>
 
 
 * 📍 Location: Aveiro - Portugal
 * 💼 Currently working as: Freelancer
-* 🌱 Currently learning/focused on: Front-End development
+* 🌱 Currently learning/focused on: AI Enginner
 * 💡 I like to talk about: Music, movies, and travel
 * 🤝 Looking to collaborate on: Design and Front-End development projects, especially those involving React, to apply and expand my new skills.
 <br>
