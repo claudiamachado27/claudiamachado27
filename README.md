@@ -81,7 +81,7 @@ I am always open to new connections and opportunities. Feel free to contact me:
 
 <div align="center">
     <p>
-        <a href="https://www.linkedin.com/in/claudiamachado27/" target="_blank">
+        <a href="https://www.linkedin.com/in/claudiatmachado/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <a href="https://portfolio.claudiamachado.me" target="_blank">
