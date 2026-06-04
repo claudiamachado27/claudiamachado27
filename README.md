@@ -13,9 +13,7 @@
     <h1>Hi, I'm Claudia Machado! 👋</h1>
    <p>Dedication, passion, and learning are what keep me moving. </p>
      <p align="center">
-  <a href="https://app.daily.dev/claudiamachado27">
-    <img src="https://api.daily.dev/devcards/v2/Sy73SAVMQJIJ11DvysAeR.png?type=default&r=jvp" width="356" alt="Claudia Machado's Dev Card"/>
-  </a>
+  
 </p>
     
 </div>
@@ -35,7 +33,7 @@ My mission is to design solutions that don’t just meet today’s demands, but 
 
 
 * 📍 Location: Aveiro - Portugal
-* 💼 Currently working as: Freelancer
+* 💼 Currently working as: Front-End Development and Prompt Engineer
 * 🌱 Currently learning/focused on: AI Enginner
 * 💡 I like to talk about: Music, movies, and travel
 * 🤝 Looking to collaborate on: Design and Front-End development projects, especially those involving React, to apply and expand my new skills.
