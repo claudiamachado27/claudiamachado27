@@ -33,10 +33,10 @@ My mission is to design solutions that don’t just meet today’s demands, but 
 
 
 * 📍 Location: Aveiro - Portugal
-* 💼 Currently working as: Front-End Development and Prompt Engineer
+* 💼 Currently working as: Front-End Developer and Prompt Engineer
 * 🌱 Currently learning/focused on: AI Enginner
 * 💡 I like to talk about: Music, movies, and travel
-* 🤝 Looking to collaborate on: Design and Front-End development projects, especially those involving React, to apply and expand my new skills.
+* 🤝 Looking to collaborate on: Design and Front-End development projects, especially those involving AI, to apply and expand my skills.
 <br>
 
 ## 🛠️ My Technology Stack
